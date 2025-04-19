@@ -2,3 +2,12 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
+
+[languages]
+
+[languages.EN]
+title = "Agnes Kis"
+weight = 1
+contentDir = "content/en"
+
+# [languages.DA]
