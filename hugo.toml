@@ -1,12 +1,36 @@
 baseURL = 'https://example.org/'
+
 languageCode = 'en-us'
-title = 'My New Hugo Site'
 theme = "PaperMod"
+
+title = 'Ágnes Kis - Personal Website'
+
+[params]
+showShareButtons = true
+
+[params.homeInfoParams]
+Title = "Hi 👋"
+Content = '''My name is Ágnes Kis, and I am a software engineer since 2015.
+Coming from applied math, across financial predictive tool development, I became a backend engineer and then went over to be a full stack engineer, and looking into mobile development in both my freetime and professionally.
+'''
+
+[params.socialIcons]
+[params.socialIcons.github]
+name = "GitHub"
+url = "https://github.com/agnesk92"
+
+[params.socialIcons.bluesky]
+name = "bluesky"
+url = "https://bsky.app/profile/gneska.bsky.social"
+
+[params.socialIcons.linkedin]
+name = "linkedin"
+url = "https://www.linkedin.com/in/agneskis"
 
 [languages]
 
 [languages.EN]
-title = "Agnes Kis"
+title = 'Ágnes Kis - Personal Website'
 weight = 1
 contentDir = "content/en"
 
