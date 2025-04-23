@@ -7,6 +7,14 @@ title = 'Ágnes Kis - Personal Website'
 
 [params]
 showShareButtons = true
+ShowPinnedPosts = true
+ShowPinnedPostsOnHome = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
 
 [params.homeInfoParams]
 Title = "Hi 👋"
@@ -33,5 +41,29 @@ url = "https://www.linkedin.com/in/agneskis"
 title = 'Ágnes Kis - Personal Website'
 weight = 1
 contentDir = "content/en"
+
+[languages.EN.taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "example"
+name = "example.org"
+url = "https://example.org"
+weight = 30
+
 
 # [languages.DA]
