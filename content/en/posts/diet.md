@@ -1,9 +1,11 @@
 ---
+draft: false
 title: 🫐 Diet
-omit_header_text: true
-weight: 2
-type: page
-menu: main
+date: 2025-04-24T08:00:00+02:00
+description: Diet for your health
+slug: ""
+tags: ["health", "vegan"]
+weight: 1
 ---
 
 Restrictions

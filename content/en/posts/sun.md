@@ -1,9 +1,11 @@
 ---
-title: ☀️ Sun protection
-omit_header_text: true
+draft: false
 weight: 2
-type: page
-menu: main
+date: 2025-04-24T08:00:00+02:00
+title: ☀️ Sun protection
+description: How to protect your skin from the sun
+slug: ""
+tags: ["health", "sun"]
 ---
 
 Type of Sunscreen
