@@ -41,10 +41,27 @@ url = "https://www.linkedin.com/in/agneskis"
 title = 'Ágnes Kis - Personal Website'
 weight = 1
 contentDir = "content/en"
+languageName = "English"
 
 [languages.EN.taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 
+[[languages.EN.menu.main]]
+name = "Posts"
+url = "posts"
+weight = 5
+
+[[languages.EN.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.EN.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+# Todo!
 # [languages.DA]
