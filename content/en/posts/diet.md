@@ -1,11 +1,11 @@
 ---
 draft: false
-title: 🫐 Diet
 date: 2025-04-24T08:00:00+02:00
+weight: 2
+title: 🫐 Diet
 description: Diet for your health
 slug: ""
 tags: ["health", "vegan"]
-weight: 1
 ---
 
 Restrictions

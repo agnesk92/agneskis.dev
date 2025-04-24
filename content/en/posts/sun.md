@@ -1,7 +1,7 @@
 ---
 draft: false
-weight: 2
 date: 2025-04-24T08:00:00+02:00
+weight: 3
 title: ☀️ Sun protection
 description: How to protect your skin from the sun
 slug: ""

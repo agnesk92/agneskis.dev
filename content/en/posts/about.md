@@ -1,9 +1,9 @@
 ---
-title: About me
-omit_header_text: true
+draft: false
 weight: 1
-type: page
-menu: main
+title: 👾 About me
+# type: page
+# menu: main
 ---
 
 ✨ Building gives me joy. ✨
