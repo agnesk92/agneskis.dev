@@ -6,9 +6,10 @@ theme = "PaperMod"
 title = 'Ágnes Kis'
 
 [params]
-showShareButtons = true
+ShowShareButtons = true
 ShowPinnedPosts = true
 ShowPinnedPostsOnHome = true
+ShowReadingTime = true
 displayFullLangName = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
