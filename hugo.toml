@@ -47,6 +47,14 @@ url = "https://bsky.app/profile/gneska.bsky.social"
 name = "linkedin"
 url = "https://www.linkedin.com/in/agneskis"
 
+[params.socialIcons.stackoverflow]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/11078901/agnes-kis"
+
+[params.socialIcons.rss]
+name = "rss"
+url = "http://localhost:1313/index.xml"
+
 [languages]
 
 [languages.EN]

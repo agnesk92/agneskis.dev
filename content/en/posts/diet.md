@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-04-24T08:00:00+02:00
+date: 2025-04-26T08:00:00+02:00
 weight: 2
 title: Diet 🫐
 summary: Study-based vegan diet from a friend to boost your health when you really need it.
