@@ -5,6 +5,10 @@ theme = "PaperMod"
 
 title = 'Ágnes Kis'
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [params]
 ShowShareButtons = true
 ShowPinnedPosts = true
