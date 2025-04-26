@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 🤝 Personal Coding Principles
 ---
 
@@ -6,13 +7,13 @@ title: 🤝 Personal Coding Principles
 
 - easy to read, use, or reuse
 - tested and testable
-- with informative but brief documentation (if it is hard to read, it will turn into clutter)
+- with informative & brief documentation
 
 #### ✨ Be reasonable, not fancy
 
 #### 🔧 Systematic solutions work best
 
-#### 🤝 Collaboration creates a high-performing team, not just 10x engineers, so
+#### 🤝 Collaboration results in productivity
 
 - be kind
 - share authority & responsibility

@@ -3,7 +3,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 theme = "PaperMod"
 
-title = 'Ágnes Kis - Personal Website'
+title = 'Ágnes Kis'
 
 [params]
 showShareButtons = true
@@ -16,10 +16,22 @@ ShowRssButtonInSectionTermList = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
 
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params.homeInfoParams]
 Title = "Hi 👋"
-Content = '''My name is Ágnes Kis, and I am a software engineer since 2015.
-Coming from applied math, across financial predictive tool development, I became a backend engineer and then went over to be a full stack engineer, and looking into mobile development in both my freetime and professionally.
+Content = '''
+<p>You just found my personal website, where I introduce myself and share information about my work and interests.</p>
+
+<br>
+
+<p>I am a full stack software engineer with a passion for creating nice things, and getting a wide variety of knowledge to enable me to do so.</p>
+
+<br>
+
+<p>I hope you'll find something interesting here! 🐦‍⬛</p>
 '''
 
 [params.socialIcons]
@@ -38,7 +50,7 @@ url = "https://www.linkedin.com/in/agneskis"
 [languages]
 
 [languages.EN]
-title = 'Ágnes Kis - Personal Website'
+title = 'Ágnes Kis'
 weight = 1
 contentDir = "content/en"
 languageName = "English"
@@ -49,19 +61,24 @@ tag = "tags"
 series = "series"
 
 [[languages.EN.menu.main]]
+name = "About me"
+url = "about"
+weight = 10
+
+[[languages.EN.menu.main]]
 name = "Posts"
 url = "posts"
-weight = 5
+weight = 1
 
-[[languages.EN.menu.main]]
-name = "Search"
-url = "search/"
-weight = 10
+# [[languages.EN.menu.main]]
+# name = "Search"
+# url = "search/"
+# weight = 10
 
-[[languages.EN.menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 10
+# [[languages.EN.menu.main]]
+# name = "Tags"
+# url = "tags/"
+# weight = 10
 
 # Todo!
 # [languages.DA]
