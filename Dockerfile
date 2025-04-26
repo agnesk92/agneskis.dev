@@ -21,10 +21,10 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
     && rm hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 
 # Set the working directory
-WORKDIR /src
+WORKDIR /site
 
 # Copy the current directory contents into the container
-COPY . .
+# COPY . .
 
 # Expose Hugo default server port
 EXPOSE 1313
