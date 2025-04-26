@@ -26,3 +26,5 @@ docker compose up --build
 ```
 
 For further set up, read Hugo's [quick start guide](https://gohugo.io/getting-started/quick-start/).
+
+Uses [google analytics](analytics.google.com).

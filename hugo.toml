@@ -11,7 +11,6 @@ title = 'Ágnes Kis'
 dir = ':cacheDir/images'
 
 [params]
-ShowShareButtons = true
 ShowPinnedPosts = true
 ShowPinnedPostsOnHome = true
 ShowReadingTime = true
