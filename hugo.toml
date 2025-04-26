@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://agneskis.dev/'
+googleAnalytics = "G-LS8T3JPE59"
 
 languageCode = 'en-us'
 theme = "PaperMod"
