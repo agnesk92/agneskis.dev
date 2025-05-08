@@ -10,7 +10,7 @@ weight: 1
 
 #### Leave services as you would want to find them 👍🏻
 
-- easy to read, use, or reuse (aim at making lego pieces)
+- easy to read, use, or reuse (aim at making Lego pieces)
 - tested and testable
 - with informative & brief documentation
 
@@ -33,8 +33,8 @@ Not individual geniuses, but good teams are the source of sustainable productivi
 
 #### We are people 🌈
 
-- devX matters
-- every problem is people problem (most often it is not about capability, but diversity)
+- DevX matters
+- Every problem is people problem (most often it is not about capability, but diversity)
 
 ![o'brien](/images/obrien.gif)
 
@@ -54,6 +54,6 @@ Tidy first is a simple and very logical set of rules to speed up the often frust
 
 [Surviving academia](https://www.goodreads.com/book/show/225242569-surviving-academia---studies-on-the-sustainability-of-science-and-academ) by my dear sister, Andrea Kis.
 
-Her dissertation taught me some important things about people, culture and diversity.
+Her dissertation taught me some important things about people, culture, and diversity.
 
 Most importantly, that you should not just define your culture well, but measure it too - something that companies most often fail to do.

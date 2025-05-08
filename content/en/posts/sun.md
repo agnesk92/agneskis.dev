@@ -32,7 +32,7 @@ Application Technique
 - Apply on clean, dry skin
 - Use light pressure, gentle circular motion
 - Cover all exposed areas — ears, neck, eyelids, around nostrils, hairline
-- Wait 15 mins before sun exposure
+- Wait 15 minutes before sun exposure
 
 Circumstances to Apply
 
