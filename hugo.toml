@@ -28,15 +28,13 @@ unsafe = true
 [params.homeInfoParams]
 Title = "Hi 👋"
 Content = '''
-<p>You just found my personal website, where I introduce myself and share information about my work and interests.</p>
+<p>You just found my personal website.</p>
 
 <br>
 
-<p>I am a full stack software engineer with a passion for creating nice things, and getting a wide variety of knowledge to enable me to do so.</p>
+<p>I am a senior full-stack software engineer with a passion for creating nice things.</p>
 
 <br>
-
-<p>I hope you'll find something interesting here! 🐦‍⬛</p>
 '''
 
 [params.socialIcons]
@@ -73,15 +71,15 @@ category = "categories"
 tag = "tags"
 series = "series"
 
-[[languages.EN.menu.main]]
-name = "About me"
-url = "about"
-weight = 10
+# [[languages.EN.menu.main]]
+# name = "About me"
+# url = "about"
+# weight = 10
 
-[[languages.EN.menu.main]]
-name = "Posts"
-url = "posts"
-weight = 1
+# [[languages.EN.menu.main]]
+# name = "Posts"
+# url = "posts"
+# weight = 1
 
 # [[languages.EN.menu.main]]
 # name = "Search"

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 weight: 1
 title: About me 👾
 type: page

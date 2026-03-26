@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: "Agnes Kis"
 title: Personal coding principles 🤝
 summary: What I find most important after a decade of engineering
